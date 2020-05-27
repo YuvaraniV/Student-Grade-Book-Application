@@ -15,6 +15,7 @@ linked, then tested with some inputs from faculty.</p>
 
 1) Install Net beans IDE(8.2)
 2) Import the whole folder to netbeans.
+3) Link with the database.
 
 ## Usage
 
